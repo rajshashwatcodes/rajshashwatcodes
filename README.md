@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 
+<p align="center">
 <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codetocore" alt="GitHub Stats" /> <br/><br/>
+</p>
 
 <!---
 CodeToCore/CodeToCore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
