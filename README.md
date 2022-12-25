@@ -1,4 +1,4 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=codetocore.codetocore)](https://github.com/laxmena) 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=codetocore.codetocore)](https://github.com/codetocore) 
 
 - 👋 Hi, I’m Shashwat Raj (@CodeToCore)
 - 👀 I’m interested in learning and exploring new stuff
