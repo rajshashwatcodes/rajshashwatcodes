@@ -1,4 +1,4 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CodeToCore.CodeToCore)](https://github.com/CodeToCore) 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rajshashwatcodes.rajshashwatcodes)](https://github.com/rajshashwatcodes) 
 
 - 👋 Hi, I’m Shashwat Raj (@CodeToCore)
 - 👀 I’m interested in learning and exploring new stuff
@@ -7,7 +7,7 @@
 
 <p align="center">
 <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeToCore" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshashwatcodes" alt="GitHub Stats" /> <br/><br/>
 </p>
 
 <!---
