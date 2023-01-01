@@ -1,6 +1,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rajshashwatcodes.rajshashwatcodes)](https://github.com/rajshashwatcodes) 
 
-- 👋 Hi, I’m Shashwat Raj (@CodeToCore)
+- 👋 Hi, I’m Shashwat Raj (@rajshashwatcodes)
 - 👀 I’m interested in learning and exploring new stuff
 - 🌱 I’m currently learning Python & Java
 - 💞️ I’m looking to collaborate on Python projects
