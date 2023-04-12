@@ -14,12 +14,5 @@
 CodeToCore/CodeToCore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=rajshashwatcodes&&show_icons=true&theme=dark"/>
-  </a>
-</p>
-</div>
 
 [![An image of @codetocore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codetocore)](https://holopin.io/@codetocore)
